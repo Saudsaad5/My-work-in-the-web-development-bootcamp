@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+
+/*Hint: You horizontally center a div by giving it a width of 50% and a margin-left of 25%.*/
+.meme{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 120px;
+    color: white;
+    font-family:  "Libre Baskerville", serif;
+    text-align: center;
+}
+
+/*Hint: Set the image to have a width of 100% so it fills the div.*/ 
+.image{
+    border: 5px solid white;
+   width: 100%;
+}
+
+h1{
+    text-transform: uppercase;
+    font-size: 3rem;
+}
